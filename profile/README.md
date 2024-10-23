@@ -1,4 +1,4 @@
-# ![Zen Bright Logo](../assets/LOGOMINI%20(VÀNG).png) Zen Bright
+# ![Zen Bright Logo](../assets/LOGOMINI%20(VÀNG).png)
 
 Welcome to the **Zen Bright Organization**! We are dedicated to building innovative solutions that enhance project management and coding practices for teams and developers worldwide. Our flagship product, **Bright**, combines powerful features to streamline workflows and boost productivity.
 
@@ -8,9 +8,9 @@ At Zen Bright, our mission is to empower teams with the tools they need to manag
 
 ## Core Values
 
-- **Innovation**: We strive to stay at the forefront of technology and continuously improve our offerings. ![Innovation Icon](../assets/innovative.jpg)
-- **Collaboration**: We value teamwork and communication, both within our organization and with our users. ![Collaboration Icon](../assets/collab.jpg)
-- **Community**: We aim to build a supportive community where feedback and contributions are welcomed and encouraged. ![Community Icon](../assets/community.jpg)
+- **Innovation**: We strive to stay at the forefront of technology and continuously improve our offerings.
+- **Collaboration**: We value teamwork and communication, both within our organization and with our users.
+- **Community**: We aim to build a supportive community where feedback and contributions are welcomed and encouraged.
 
 ## Our Projects
 
